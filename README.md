@@ -259,3 +259,5 @@ Contributions are welcome. Create a fork and make a pull request. Thank you!
 
 ## Disclaimer
 These software tools are provided "as is" and "with all it's faults". We do not make any commitments or guarantees of any kind regarding security, suitability, errors or other harmful components of this source code. You are solely responsible for ensuring that data collected and published using these tools complies with all data protection regulations. You are also solely responsible for the protection of your equipment and the backup of your data, and we will not be liable for any damages that you may suffer in connection with the use, modification or distribution of these software tools.
+
+
